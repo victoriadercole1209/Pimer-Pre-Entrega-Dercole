@@ -61,4 +61,4 @@ while True:
     elif opcion == "4":
         break
     else:
-        print("Opción inválida")
+        print("Opción inválida.")
